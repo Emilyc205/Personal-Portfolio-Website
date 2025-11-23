@@ -1,15 +1,15 @@
 **Personal Portfolio Website** 
 A short portfolio website showcasing my core skills in web development 
  
- **Includes**
+ **Includes**:
 - Navigation Bar
 - Home Page
 - Portfolio Page
-**Coding langauge Used**
+**Coding langauge Used**:
   - HTML
   - CSS
   
-  **Future Improvements**
+  **Future Improvements**:
 - Add animations 
 - Include a contact section in the navigation bar
 - Use new fonts in different sections
